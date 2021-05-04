@@ -5314,6 +5314,10 @@ a.badge-dark:focus, a.badge-dark.focus {
   align-items: flex-start;
 }
 
+.bleeding {
+  margin-left: 5%;
+}
+
 .media-body {
   -ms-flex: 1;
   flex: 1;
